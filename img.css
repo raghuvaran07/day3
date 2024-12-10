@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(183, 192, 188);
+}
+h1{
+    text-align: center;
+
+}
+.fc{
+
+display: inline-block;
+margin: 3% 2% 3% 2%;
+font-size: larger;
+text-align: center;
+
+
+}
+.fc>a{
+    margin-top: 5%;
+    font-size: larger;
+    text-decoration: none;
+    color:lightsteelblue;
+
+}
